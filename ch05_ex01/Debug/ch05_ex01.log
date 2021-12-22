@@ -1,0 +1,14 @@
+﻿  2020_5_TH_C_src.c
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(132,33): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(133,33): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(161,35): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(454,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(477,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(415,16): warning C4101: 'GRAY' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(415,13): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(415,7): warning C4101: 'R' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(414,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(415,10): warning C4101: 'G' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\Downloads\2020_5_TH_C_src.c(620): warning C4715: 'crop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ch05_ex01.vcxproj -> C:\Users\82102\source\repos\Basic_Design\Debug\ch05_ex01.exe

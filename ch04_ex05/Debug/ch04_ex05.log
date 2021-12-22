@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\82102\source\repos\Basic_Design\ch04_ex05\소스.c(13,16): warning C4101: 'byte_write' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\source\repos\Basic_Design\ch04_ex05\소스.c(9,7): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+  ch04_ex05.vcxproj -> C:\Users\82102\source\repos\Basic_Design\Debug\ch04_ex05.exe

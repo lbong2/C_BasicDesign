@@ -1,0 +1,4 @@
+test i inputfile.txt o 201711242.txt
+char num : 242
+word Num : 46
+sentenceNum : 6

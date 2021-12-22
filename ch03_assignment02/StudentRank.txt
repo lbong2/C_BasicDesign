@@ -1,0 +1,100 @@
+================================
+name : yu
+Class of : 108
+korea : 92
+math : 18
+english : 67
+sum : 177
+average : 59.000
+rank : 1
+================================
+================================
+name : seo
+Class of : 109
+korea : 79
+math : 32
+english : 66
+sum : 177
+average : 59.000
+rank : 1
+================================
+================================
+name : kim
+Class of : 100
+korea : 62
+math : 56
+english : 57
+sum : 175
+average : 58.333
+rank : 3
+================================
+================================
+name : lee
+Class of : 101
+korea : 31
+math : 60
+english : 79
+sum : 170
+average : 56.667
+rank : 4
+================================
+================================
+name : park
+Class of : 102
+korea : 72
+math : 31
+english : 59
+sum : 162
+average : 54.000
+rank : 5
+================================
+================================
+name : han
+Class of : 105
+korea : 71
+math : 7
+english : 81
+sum : 159
+average : 53.000
+rank : 6
+================================
+================================
+name : ryu
+Class of : 103
+korea : 15
+math : 50
+english : 78
+sum : 143
+average : 47.667
+rank : 7
+================================
+================================
+name : choi
+Class of : 104
+korea : 90
+math : 22
+english : 8
+sum : 120
+average : 40.000
+rank : 8
+================================
+================================
+name : kang
+Class of : 106
+korea : 86
+math : 25
+english : 8
+sum : 119
+average : 39.667
+rank : 9
+================================
+================================
+name : heo
+Class of : 107
+korea : 5
+math : 86
+english : 27
+sum : 118
+average : 39.333
+rank : 10
+================================
